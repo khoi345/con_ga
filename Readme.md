@@ -42,7 +42,7 @@ CHÚ Ý: Build dự án ở chế độ Release.
 
 Liên hệ Nguyễn Minh Khôi
 0866 592 512 
-nếu gặp khos khăn
+nếu gặp khó khăn
 
 
 
