@@ -1,0 +1,42 @@
+# Các thư mục và tệp tạo bởi Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+
+# Các tệp tạo bởi Rider
+.idea/
+
+# Các thư mục và tệp tạo bởi NuGet
+packages/
+
+# Các tệp tạo bởi ReSharper
+_ReSharper.*
+
+# Các thư mục và tệp tạo bởi Windows
+Thumbs.db
+Desktop.ini
+
+# Các tệp tạo bởi các trình biên dịch và trình biên dịch chuyển đổi
+*.exe
+*.dll
+*.pdb
+*.dll.config
+
+# Các tệp tạo bởi MSBuild
+*.csproj.user
+*.suo
+*.cache
+
+# Các thư mục và tệp tạo bởi Visual Studio Code
+.vscode/
+# Các thư mục tạo bởi Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+
+# Bỏ qua các thư mục Release và Debug
+**/bin/Release/
+**/bin/Debug/
+**/obj/Debug/

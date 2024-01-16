@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\localhost</_PublishTargetUrl>
+    <History>True|2024-01-15T10:12:47.3461534Z;True|2024-01-15T10:31:17.9331791+07:00;True|2024-01-15T10:30:58.1302829+07:00;True|2024-01-15T09:40:16.3966125+07:00;True|2024-01-15T09:40:06.4783943+07:00;True|2024-01-15T09:34:08.8393857+07:00;True|2024-01-15T09:32:27.5087356+07:00;False|2023-06-21T09:54:08.1695769+07:00;False|2023-06-21T09:53:40.7917015+07:00;False|2023-06-21T09:53:24.8699966+07:00;True|2023-06-17T10:22:32.7385813+07:00;True|2023-06-17T10:20:56.2004006+07:00;True|2023-06-17T10:19:30.3016342+07:00;True|2023-06-17T10:19:18.9619223+07:00;True|2023-06-17T10:19:08.2213581+07:00;False|2023-06-16T10:09:29.3507876+07:00;True|2023-06-16T10:07:58.4913667+07:00;False|2023-06-16T09:53:46.0912794+07:00;False|2023-06-16T09:47:26.7369122+07:00;True|2023-05-18T11:43:50.0834712+07:00;True|2023-04-21T08:52:08.4925119+07:00;True|2023-04-21T08:30:02.1297481+07:00;True|2023-04-20T15:34:02.9354686+07:00;True|2023-04-20T15:33:54.9272394+07:00;True|2023-04-20T15:33:26.1066835+07:00;True|2023-04-16T21:11:57.2435094+07:00;True|2023-04-16T21:08:07.1434403+07:00;True|2023-04-16T21:07:53.4290429+07:00;True|2023-04-16T20:27:14.0495210+07:00;True|2023-04-12T12:04:33.6688648+07:00;True|2023-04-12T12:04:28.4144332+07:00;True|2023-04-12T12:00:44.6823855+07:00;True|2023-04-12T11:58:57.6240145+07:00;True|2023-04-12T10:43:51.5291695+07:00;True|2023-04-12T10:43:40.5304666+07:00;True|2023-04-11T23:55:44.1240560+07:00;True|2023-03-28T10:22:56.8767996+07:00;True|2023-03-28T10:22:43.2943381+07:00;True|2023-02-23T13:58:32.7182334+07:00;True|2023-02-23T13:54:36.9360267+07:00;True|2023-02-23T13:54:26.2351802+07:00;True|2023-02-22T11:25:40.3145840+07:00;True|2023-02-22T10:53:27.5008585+07:00;True|2023-02-22T10:29:07.0353053+07:00;True|2023-02-22T10:29:02.6729669+07:00;True|2023-02-22T10:10:23.1313705+07:00;True|2023-02-22T02:09:15.3045604+07:00;True|2023-02-22T01:59:14.0415036+07:00;True|2023-02-22T01:44:31.5915573+07:00;True|2023-02-22T01:44:22.6075480+07:00;True|2023-02-22T01:20:59.9577558+07:00;True|2023-02-22T01:20:55.2591817+07:00;True|2023-02-22T01:16:16.9648596+07:00;True|2023-02-22T01:13:53.5122292+07:00;True|2023-02-22T01:11:42.4827121+07:00;True|2023-02-21T23:46:27.3146283+07:00;True|2023-02-21T11:22:59.7200376+07:00;True|2023-02-17T00:34:20.3864193+07:00;True|2023-02-15T23:22:23.0480391+07:00;True|2023-02-15T23:22:12.5811626+07:00;True|2023-02-15T23:07:18.6145353+07:00;True|2023-02-15T15:36:24.1474971+07:00;True|2023-02-15T15:36:15.3808862+07:00;True|2023-02-15T14:43:09.9717723+07:00;True|2023-02-14T00:20:08.8177439+07:00;True|2023-02-04T13:53:30.4254943+07:00;True|2023-02-04T10:49:00.7718252+07:00;True|2023-02-04T10:44:31.1505292+07:00;True|2022-12-28T13:26:36.9936958+07:00;True|2022-11-28T11:46:13.6296167+07:00;True|2022-11-28T11:45:25.0192446+07:00;True|2022-11-27T23:34:42.3666432+07:00;True|2022-11-24T01:57:31.9226542+07:00;True|2022-10-27T11:10:14.5966062+07:00;True|2022-10-17T10:57:27.0127242+07:00;True|2022-10-17T10:57:24.2117826+07:00;True|2022-10-17T10:56:31.9363180+07:00;True|2022-10-17T09:52:47.9000220+07:00;True|2022-10-17T09:52:40.2232154+07:00;True|2022-10-17T09:52:31.3133655+07:00;True|2022-10-17T01:18:05.3877611+07:00;True|2022-10-17T01:18:01.5868494+07:00;True|2022-10-16T23:34:27.9985892+07:00;True|2022-10-16T23:34:23.2823513+07:00;True|2022-10-16T10:57:12.7988784+07:00;True|2022-10-16T10:46:48.0980790+07:00;True|2022-09-12T14:48:15.8388863+07:00;True|2022-09-12T14:11:56.5138439+07:00;True|2022-09-11T23:37:58.7843657+07:00;True|2022-06-21T21:33:29.7409989+07:00;True|2022-06-21T21:33:26.0906905+07:00;True|2022-06-15T00:38:36.7748105+07:00;True|2022-06-15T00:36:27.2230368+07:00;True|2022-06-14T21:29:08.5347351+07:00;True|2022-06-14T21:29:05.3281884+07:00;True|2022-04-28T17:15:53.6255468+07:00;True|2022-04-28T15:45:49.1948637+07:00;True|2022-04-28T15:41:40.9785852+07:00;True|2022-04-25T22:05:11.0259198+07:00;True|2022-04-25T22:05:01.9095238+07:00;True|2022-04-25T09:47:55.9055901+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BookSleeve.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/BookSleeve.pdb">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/csredis.dll">
+      <publishTime>09/09/2023 11:52:05</publishTime>
+    </File>
+    <File Include="bin/Dao.dll">
+      <publishTime>01/15/2024 17:12:39</publishTime>
+    </File>
+    <File Include="bin/Dao.pdb">
+      <publishTime>01/15/2024 17:12:39</publishTime>
+    </File>
+    <File Include="bin/Dto.dll">
+      <publishTime>01/15/2024 10:31:08</publishTime>
+    </File>
+    <File Include="bin/Dto.pdb">
+      <publishTime>01/15/2024 10:31:08</publishTime>
+    </File>
+    <File Include="bin/maincode.xml">
+      <publishTime>01/15/2024 11:34:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.dll">
+      <publishTime>06/15/2021 19:02:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Json.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>06/15/2021 19:02:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.Bson.dll">
+      <publishTime>11/28/2018 06:10:18</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.Bson.pdb">
+      <publishTime>11/28/2018 06:07:54</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.Cli.exe">
+      <publishTime>10/27/2022 11:09:52</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.Cli.exe.config">
+      <publishTime>06/15/2021 19:01:52</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.Cli.pdb">
+      <publishTime>10/27/2022 11:09:52</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.ConsoleBenchmark.dll">
+      <publishTime>11/28/2022 11:45:37</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.ConsoleBenchmark.dll.config">
+      <publishTime>06/15/2021 19:01:54</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.ConsoleBenchmark.pdb">
+      <publishTime>11/28/2022 11:45:37</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.dll">
+      <publishTime>01/15/2024 10:31:08</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.dll.config">
+      <publishTime>01/06/2024 14:14:27</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.pdb">
+      <publishTime>01/15/2024 10:31:08</publishTime>
+    </File>
+    <File Include="bin/RedisBus.dll">
+      <publishTime>01/15/2024 17:12:39</publishTime>
+    </File>
+    <File Include="bin/RedisBus.dll.config">
+      <publishTime>01/06/2024 14:14:44</publishTime>
+    </File>
+    <File Include="bin/RedisBus.pdb">
+      <publishTime>01/15/2024 17:12:39</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>09/09/2023 11:52:05</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/08/2022 10:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/21/2023 03:33:52</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>09/09/2023 11:52:04</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 20:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>02/19/2020 17:05:16</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>06/15/2021 19:02:28</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 17:05:18</publishTime>
+    </File>
+    <File Include="bin/Wcf.dll">
+      <publishTime>01/15/2024 17:12:41</publishTime>
+    </File>
+    <File Include="bin/Wcf.pdb">
+      <publishTime>01/15/2024 17:12:41</publishTime>
+    </File>
+    <File Include="bin/zip.bat">
+      <publishTime>06/15/2021 19:01:53</publishTime>
+    </File>
+    <File Include="BKKService.svc">
+      <publishTime>06/15/2021 19:01:53</publishTime>
+    </File>
+    <File Include="FLTService.svc">
+      <publishTime>01/14/2024 15:47:50</publishTime>
+    </File>
+    <File Include="HourlyService.svc">
+      <publishTime>01/14/2024 15:47:50</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>09/09/2023 11:52:03</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>06/15/2021 19:01:53</publishTime>
+    </File>
+    <File Include="UpService.svc">
+      <publishTime>06/15/2021 19:01:53</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>01/14/2024 15:48:28</publishTime>
+    </File>
+    <File Include="zip.bat">
+      <publishTime>06/15/2021 19:01:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <Skin>Office 2007 Blue</Skin>
+    <Debug>http://localhost/</Debug>
+    <Release>http://localhost/</Release>
+    <Update>http://flt.laziki.com/exe/update.xml</Update>
+  </Row>
+</Import>

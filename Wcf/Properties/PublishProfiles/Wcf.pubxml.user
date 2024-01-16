@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\share</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BookSleeve.dll">
+      <publishTime>05/11/2013 19:57:02</publishTime>
+    </File>
+    <File Include="bin/BookSleeve.pdb">
+      <publishTime>05/11/2013 19:57:02</publishTime>
+    </File>
+    <File Include="bin/csredis.dll">
+      <publishTime>04/28/2013 09:59:24</publishTime>
+    </File>
+    <File Include="bin/Dao.dll">
+      <publishTime>12/25/2020 11:33:47</publishTime>
+    </File>
+    <File Include="bin/Dao.Fakes.dll">
+      <publishTime>04/20/2019 11:33:39</publishTime>
+    </File>
+    <File Include="bin/Dao.pdb">
+      <publishTime>12/25/2020 11:33:47</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Data.v16.1.resources.dll">
+      <publishTime>06/21/2017 16:15:32</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeParser.v16.1.dll">
+      <publishTime>06/21/2017 16:15:32</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v16.1.dll">
+      <publishTime>06/21/2017 16:15:32</publishTime>
+    </File>
+    <File Include="bin/Dto.dll">
+      <publishTime>12/25/2020 11:33:45</publishTime>
+    </File>
+    <File Include="bin/Dto.pdb">
+      <publishTime>12/25/2020 11:33:45</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Data.v16.1.resources.dll">
+      <publishTime>06/21/2017 16:15:32</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Data.v16.1.resources.dll">
+      <publishTime>06/21/2017 16:15:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Json.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>01/06/2020 13:21:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>01/06/2020 13:21:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>01/06/2020 13:21:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.dll">
+      <publishTime>01/06/2020 13:21:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>01/06/2020 13:21:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Interop.Excel.dll">
+      <publishTime>04/20/2019 11:45:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.QualityTools.Testing.Fakes.dll">
+      <publishTime>07/07/2015 00:51:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>11/20/2019 19:16:50</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/11/2015 19:54:54</publishTime>
+    </File>
+    <File Include="bin/pass.xml">
+      <publishTime>12/13/2018 12:13:02</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.Cli.exe">
+      <publishTime>12/25/2020 11:33:45</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.Cli.exe.config">
+      <publishTime>11/15/2020 12:37:20</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.Cli.pdb">
+      <publishTime>12/25/2020 11:33:45</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.ConsoleBenchmark.exe">
+      <publishTime>12/25/2020 11:33:45</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.ConsoleBenchmark.exe.config">
+      <publishTime>11/15/2020 12:37:15</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.ConsoleBenchmark.pdb">
+      <publishTime>12/25/2020 11:33:45</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.dll">
+      <publishTime>12/25/2020 11:33:44</publishTime>
+    </File>
+    <File Include="bin/RedisBoost.pdb">
+      <publishTime>12/25/2020 11:33:44</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>05/18/2020 11:55:38</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Data.v16.1.resources.dll">
+      <publishTime>06/21/2017 16:15:32</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>05/19/2013 10:11:04</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>05/12/2013 23:47:08</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>05/20/2013 01:24:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>07/10/2012 12:07:38</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>02/19/2015 20:10:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>02/19/2015 20:10:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>07/10/2012 12:07:38</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>01/06/2020 13:23:22</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>01/06/2020 13:23:28</publishTime>
+    </File>
+    <File Include="bin/Wcf.dll">
+      <publishTime>12/25/2020 11:33:51</publishTime>
+    </File>
+    <File Include="bin/Wcf.pdb">
+      <publishTime>12/25/2020 11:33:51</publishTime>
+    </File>
+    <File Include="BKKService.svc">
+      <publishTime>03/06/2020 10:56:32</publishTime>
+    </File>
+    <File Include="FileUploadServ.svc">
+      <publishTime>04/16/2019 15:44:55</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>07/10/2020 15:54:39</publishTime>
+    </File>
+    <File Include="huong dan ban bill di doi tac.json">
+      <publishTime>05/18/2018 10:10:38</publishTime>
+    </File>
+    <File Include="huong dan ban bill di doi tac.txt">
+      <publishTime>05/18/2018 10:10:38</publishTime>
+    </File>
+    <File Include="HuongDan/huong dan ban bill di doi tac.json">
+      <publishTime>05/18/2018 10:10:38</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>07/15/2020 12:31:45</publishTime>
+    </File>
+    <File Include="MAService.svc">
+      <publishTime>05/01/2017 20:52:37</publishTime>
+    </File>
+    <File Include="MService.svc">
+      <publishTime>05/01/2017 21:18:24</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/04/2019 08:42:53</publishTime>
+    </File>
+    <File Include="Properties/Settings.settings">
+      <publishTime>04/15/2017 08:46:00</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>03/06/2020 10:56:32</publishTime>
+    </File>
+    <File Include="TransferService.svc">
+      <publishTime>04/16/2019 13:14:45</publishTime>
+    </File>
+    <File Include="UpService.svc">
+      <publishTime>03/06/2020 11:15:36</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/25/2020 16:08:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

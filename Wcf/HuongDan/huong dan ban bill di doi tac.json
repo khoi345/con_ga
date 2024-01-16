@@ -1,0 +1,13 @@
+﻿{
+  // SRRO - > 247 -> SRRI
+  //              -> SRRI
+  //Bảng C101 theo dõi trung tâm ngoài
+  //Bảng C201 thoe dõi bill bắn đến trung tâm ngoài
+  //Bảng D201 theo dõi bill của mình so khớp với bill bên ngoài, tất cả các bill cần lấy lên để kiểm tra nếu chưa ở trạng thái kết thúc
+  // SRRI - > chuyển trạng thái ngay lập tức hoặc ko
+  // E201 tiếp tục theo dõi bill đang đi phát
+  // F201 theo dõi nếu bill chưa phát thành công
+  // cập nhật bill
+  // => chỉ cần theo dõi trên bảng D201 phủ tất cả các bill
+
+}
